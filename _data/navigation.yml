@@ -20,6 +20,7 @@
   - title: Renewal of Licence
     url: /application-guidelines/renew-hotel-licence/
 - title: Legislation
+  false_collection: true
   sub-links:
   - title: Hotels Act
     url: https://sso.agc.gov.sg/Act/HA1954
